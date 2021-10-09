@@ -1,7 +1,7 @@
 
 <p align="center"><img src="./Header_img.png" width="500"></p>
 
-## Modelagem de dados e criação de um modelo de predição por aprendizado de máquina
+## Manipulação de dados e criação de um modelo de predição por Aprendizado de Máquina (Machine Learning)
 
 Contexto dos dados:
 O modelo de compartilhamento de aluguel de bicicletas é comumente encontrado em algumas capitais e grandes metrópoles, bem como de outros modais como patinetes e veículos automotores.
